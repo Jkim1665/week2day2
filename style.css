@@ -1,0 +1,36 @@
+
+.first {
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+    font-weight: normal; 
+    line-height: normal;
+}
+
+.second {
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+.third {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 200%; 
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: orange;
+}
+
+a:focus {
+    color:pink; 
+}
